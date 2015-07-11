@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email		= 'trs3ww@virginia.edu'
   s.files		= Dir["README.md", "LICENSE.md", "lib/**/*.rb"]
   s.require_paths = ['lib']
-  s.homepage	= ''
+  s.homepage	= 'https://github.com/Steimel/KeySender'
   s.license	= 'MIT'
 end
