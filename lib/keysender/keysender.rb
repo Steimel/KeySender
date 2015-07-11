@@ -23,6 +23,7 @@ module KeySender
   end
 
   def self.send_linux(text)
+    # will not work unless xdotool is installed
     system('xdotool', 'type', text)
   end
 end
